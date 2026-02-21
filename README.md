@@ -52,17 +52,19 @@ Link to Download: https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-
 ------------------------------------------------------------------------------------------------------------------------------
 3. Tools & Environment
 
-Required Software: 
-- Python Version Used - Python 3.12.7 (packaged by Anaconda, Inc.)
-
-Link to Download: https://www.python.org/downloads/
+Required Software:
+- Python Version Used: Python 3.12.7 (packaged by Anaconda, Inc.)
+  
+  This is the Python version used in the Anaconda environment to run the Jupyter Notebooks.
+  
+  Link to Download: https://www.python.org/downloads/
 
 - Anaconda Navigator (Recommended)
-
-Link to Download: https://www.anaconda.com/download
+  
+  Link to Download: https://www.anaconda.com/download
 
 Execution platform:
-- Jupyter Notebook
+- Jupyter Notebook (launched from the above Anaconda environment)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 4. Required Python Libraries
