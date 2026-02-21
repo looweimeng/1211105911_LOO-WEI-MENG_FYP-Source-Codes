@@ -14,6 +14,7 @@ Supervisor: Assoc. Prof. Ts. Dr. Lew Sook Ling
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 1. Project Overview
+
 This repository contains the complete implementation of the Final Year Project titled: 
 
 DEMAND FORECASTING IN RETAIL 
