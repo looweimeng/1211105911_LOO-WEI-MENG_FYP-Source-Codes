@@ -72,7 +72,7 @@ Execution platform:
 Install using Anaconda Prompt or Command Prompt:
 - numpy: For numerical computations and array handling.
 - pandas: For data manipulation and CSV/Excel analysis.
-- matplotlib & seaborn: For exploratory data analysis and result visualization.
+- matplotlib & seaborn: For exploratory data analysis and result visualisation.
 - scipy: For statistical analysis and Winsorization.
 - scikit-learn: For machine learning models (Linear, Ridge, RF) and evaluation metrics.
 - statsmodels & pmdarima: For traditional time series models (ARIMA, SARIMA).
@@ -85,6 +85,7 @@ Step 1 – Launch Environment
 - Open Anaconda Navigator
 - Launch Jupyter Notebook
 - Navigate to the project folder containing the .ipynb files.
+- Make sure that the dataset CSV files are in the same folder as the .ipynb files.
 
 Step 2 – Run Notebooks Sequentially
 For each dataset, the workflow is structured as follows:
