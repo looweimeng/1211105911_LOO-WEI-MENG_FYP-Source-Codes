@@ -40,15 +40,25 @@ All implementations are developed using Python.
 2. Datasets
 
 Go to the following Kaggle link to download the original dataset. The folder in GitHub also provides the original dataset for each dataset.
-- Walmart Dataset: https://www.kaggle.com/datasets/yasserh/walmart-dataset
-- Adidas Sales Dataset: https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
+- Walmart Dataset
+
+Link to Download: https://www.kaggle.com/datasets/yasserh/walmart-dataset
+
+- Adidas Sales Dataset
+
+Link to Download: https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
 
 ------------------------------------------------------------------------------------------------------------------------------
 3. Tools & Environment
 
 Required Software: 
 - Python Version Used - Python 3.13.2
+
+Link to Download: https://www.python.org/downloads/
+
 - Anaconda Navigator (Recommended)
+
+Link to Download: https://www.anaconda.com/download
 
 Execution platform:
 - Jupyter Notebook
@@ -57,8 +67,13 @@ Execution platform:
 4. Required Python Libraries
 
 Install using Anaconda Prompt or Command Prompt:
-
-pip install numpy pandas matplotlib seaborn scipy scikit-learn statsmodels pmdarima xgboost lightgbm
+- numpy: For numerical computations and array handling.
+- pandas: For data manipulation and CSV/Excel analysis.
+- matplotlib & seaborn: For exploratory data analysis and result visualization.
+- scipy: For statistical analysis and Winsorization.
+- scikit-learn: For machine learning models (Linear, Ridge, RF) and evaluation metrics.
+- statsmodels & pmdarima: For traditional time series models (ARIMA, SARIMA).
+- xgboost & lightgbm: For advanced gradient boosting ensemble models.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 5. Execution Instructions
@@ -66,7 +81,7 @@ pip install numpy pandas matplotlib seaborn scipy scikit-learn statsmodels pmdar
 Step 1 – Launch Environment
 - Open Anaconda Navigator
 - Launch Jupyter Notebook
-- Navigate to the project folder
+- Navigate to the project folder containing the .ipynb files.
 
 Step 2 – Run Notebooks Sequentially
 For each dataset, the workflow is structured as follows:
