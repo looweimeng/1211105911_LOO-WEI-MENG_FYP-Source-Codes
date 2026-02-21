@@ -53,7 +53,7 @@ Link to Download: https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-
 3. Tools & Environment
 
 Required Software: 
-- Python Version Used - Python 3.13.2
+- Python Version Used - Python 3.12.7 (packaged by Anaconda, Inc.)
 
 Link to Download: https://www.python.org/downloads/
 
