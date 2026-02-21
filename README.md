@@ -38,6 +38,7 @@ All implementations are developed using Python.
 
 ------------------------------------------------------------------------------------------------------------------------------
 2. Datasets
+
 Go to the following Kaggle link to download the original dataset. The folder in GitHub also provides the original dataset for each dataset.
 - Walmart Dataset: https://www.kaggle.com/datasets/yasserh/walmart-dataset
 - Adidas Sales Dataset: https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
